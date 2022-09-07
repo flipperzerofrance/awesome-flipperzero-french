@@ -1,4 +1,4 @@
-### Comment utiliser la fonction de télécommande Bluetooth de votre Flipper :_
+### Comment utiliser la fonction de télécommande Bluetooth de votre Flipper :
 
 Une fois votre Flipper allumé, naviguez avec les boutons "haut" et "bas" jusqu'à atteindre le menu `Plugins`
 
@@ -8,7 +8,7 @@ Entrez avec le bouton "du milieu" et choisissez la fonction `Bluetooth Remote`
 
 ![BTRemote](https://user-images.githubusercontent.com/829842/187900232-493a33a1-b461-44fc-b91d-1fe17e65eaa1.png)
 
-Depuis ce menu (**et uniquement celui-ci**), un nouveau périphérique Bluetooth nommé _Control "Nom de votre Flipper"_ sera disponible pour vous connecter.
+Depuis ce menu (**et uniquement celui-ci**), un nouveau périphérique Bluetooth nommé __Control "Nom de votre Flipper"__ sera disponible pour vous connecter.
 
 Appairez votre téléphone/tablette/ordinateur/... à ce périphérique et vous êtes prêt à contrôler vos appareils distants ! (Je saute la doc sur la façon d'appairer 2 appareils Bluetooth ...)
 
@@ -58,6 +58,6 @@ Pour **sortir** de chaque menu, il vous suffit d'appuyer **longuement sur le bou
 ### Paramètre Bluetooth du flipper
 
 Dans le menu `Settings`, `Bluetooth`, la sélection ON/OFF n'a pas d'effet sur le plugin `Bluetooth Remote`. Vous n'avez donc pas besoin de mettre à ON pour utiliser le plugin pour contrôler vos appareils.
-Quand c'est à ON, un nouveau périphérique Bluetooth nommé _"Nom de votre Flipper"_ (sans "Control") sera disponible. Il permet d'appairer à un smartphone pour mettre à jour le flipper via l'application mobile.
+Quand c'est à ON, un nouveau périphérique Bluetooth nommé __"Nom de votre Flipper"__ (sans "Control") sera disponible. Il permet d'appairer à un smartphone pour mettre à jour le flipper via l'application mobile.
 
 Foul (2022).
