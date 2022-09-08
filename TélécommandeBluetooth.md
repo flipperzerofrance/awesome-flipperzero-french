@@ -12,7 +12,7 @@ Depuis ce menu (**et uniquement celui-ci**), un nouveau périphérique Bluetooth
 
 Appairez votre téléphone/tablette/ordinateur/... à ce périphérique et vous êtes prêt à contrôler vos appareils distants ! (Je saute la doc sur la façon d'appairer 2 appareils Bluetooth ...)
 
-Une fois appairé, la led du Flipper restera bleu/fixe durant toute la session dans le menu `Bluetooth Remote`. Si vous quittez le menu, la led s'etteind/la connection Bluetooth disparait : La led bleue est un bon moyen de savoir si vous êtes connecté ou non. 
+Une fois appairé, la LED du Flipper restera bleu/fixe durant toute la session dans le menu `Bluetooth Remote` et l'icône bluetooth en haut à gauche sera en noir. Si vous quittez le menu, la led s'éteint/la connexion Bluetooth disparait : La led bleue est un bon moyen de savoir si vous êtes connecté ou non. 
 
 Vous trouverez dans le menu principal, les différents types de télécommandes disponibles
 
@@ -58,6 +58,7 @@ Pour **sortir** de chaque menu, il vous suffit d'appuyer **longuement sur le bou
 ### Paramètre Bluetooth du flipper
 
 Dans le menu `Settings`, `Bluetooth`, la sélection ON/OFF n'a pas d'effet sur le plugin `Bluetooth Remote`. Vous n'avez donc pas besoin de mettre à ON pour utiliser le plugin pour contrôler vos appareils.
+
 Quand c'est à ON, un nouveau périphérique Bluetooth nommé __"Nom de votre Flipper"__ (sans "Control") sera disponible. Il permet d'appairer à un smartphone pour mettre à jour le flipper via l'application mobile.
 
 Foul (2022).
