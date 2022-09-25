@@ -146,6 +146,38 @@
 - [`ESP32 Marauder guide video` Vidéo d'accompagnement pour le lien mentionné.](https://youtu.be/_YLTpNo5xa0)
 - [`Flipper Skylanders` Comment lire une figurine Skylanders avec Flipper.](https://github.com/V0lk3n/Flipper-Skylanders)
 
+## Tchat
+- Telegram : groupe `flipper_zero_french`
+
+## SubGHz
+### Doc
+- [Doc sur le format RAW SUB](https://forum.flipperzero.one/t/protocol-documentation/4794)
+- [Fréquences FCC ID](https://fccid.io/frequency-explorer.php)
+- [Exemple d'analyse d'un protocole inconnu](https://forum.flipperzero.one/t/paradox-wireless-reed-switch/5682)
+### Visualisation (plotting)
+- [Visualisation graphique d'un RAW SUB](https://my.flipp.dev/pulse-plotter)
+- [Comparaison visuelle de deux RAW SUB](https://github.com/ShotokanZH/flipper_sub_plotters_comparers)
+### Véhicules
+- [Tesla Key Card Protocol](https://gist.github.com/darconeous/2cd2de11148e3a75685940158bddf933)
+- [Firmware pour Honda](https://github.com/nonamecoder/FlipperZeroHondaFirmware)
+### Eclairage public
+- [EPAR (Furrtek)](http://furrtek.free.fr/?a=epar)
+
+## NFC (13,56MHz)
+- [Documents sur le NFC](https://github.com/engehcall/technology/tree/master/NFC)
+- [NTAG amusants (dont rickroll)](https://github.com/UberGuidoZ/Flipper/tree/main/NFC/Fun_Files)
+
+## RFID 125KHz
+- [Identification des animaux en Europe](https://www.europetnet.com/)
+- [Identification des animaux en France](https://www.i-cad.fr/verifier-animal-chien-chat-enregistrement-fichiers-officiels)
+
+## BadUSB
+- [Evasion de Kiosk](https://github.com/nocomp/Kiosk-evasion-BADUsb-Bruteforce)
+- [Linux/Gnome](https://codeberg.org/chillz/gnomed/)
+
+## Bluetooth
+- [Monter la SD du flipper via BT](https://github.com/dakhnod/fzfs)
+
 ## Credits
 
 - Traduction initiale de la page ['awesome flipper zero'](https://github.com/djsime1/awesome-flipperzero/) par djsime1
