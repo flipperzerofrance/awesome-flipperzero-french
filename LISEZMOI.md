@@ -166,6 +166,8 @@
 ## NFC (13,56MHz)
 - [Documents sur le NFC](https://github.com/engehcall/technology/tree/master/NFC)
 - [NTAG amusants (dont rickroll)](https://github.com/UberGuidoZ/Flipper/tree/main/NFC/Fun_Files)
+- [Conversion MCT vers Flipper](https://github.com/equipter/ClassicConverter)
+- [Conversion Flipper vers MCT](https://github.com/whyn0/FlipperNFC2MCT)
 
 ## RFID 125KHz
 - [Identification des animaux en Europe](https://www.europetnet.com/)
